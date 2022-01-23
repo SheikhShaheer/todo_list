@@ -1,6 +1,7 @@
 # Todo List App
 Allows you to make a todo list and organize your daily tasks.
-Built Using React Native
+
+<p>Built Using React Native CLI.</p>
 
 ## Welcome Screen
 <p>This is the welcome of the app.</p>
